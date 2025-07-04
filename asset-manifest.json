@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/flaunt-it-app/static/js/main.a4cb76b0.js",
+    "index.html": "/flaunt-it-app/index.html",
+    "main.a4cb76b0.js.map": "/flaunt-it-app/static/js/main.a4cb76b0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a4cb76b0.js"
+  ]
+}
